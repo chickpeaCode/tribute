@@ -1,0 +1,26 @@
+body{
+background: url(./images/blossom.jpg);
+background-position: center;
+background-size: cover;
+min-height: 100vh;
+}
+
+.text{
+text-align: center;
+background-color: rgba(132, 68, 177, 0.658);
+}
+
+.centerpfp{
+    display: flex;
+    justify-content: center;
+    
+}
+
+img{
+    width: 300px;
+}
+
+.ending{
+    text-align: center;
+    background-color:  rgba(132, 68, 177, 0.658);
+}
